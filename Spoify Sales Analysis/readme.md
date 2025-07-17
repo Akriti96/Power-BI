@@ -66,5 +66,10 @@ Allow users to drill through from summary visuals (like charts and KPIs) to see 
 Enable users to explore data at a granular level, such as individual orders, customers, or product types.
 Help explain summary trends and validate aggregated metrics with raw data.
 
+## 🛠️ Tools & Technologies
 
+- **Power BI Desktop** – for building visual dashboards  
+- **DAX** – for calculated columns and business metrics  
+- **Power Query** – for data cleaning and transformation  
+- **CSV/Excel** – as data sources
 
