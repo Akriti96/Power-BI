@@ -33,19 +33,19 @@ This Power BI dashboard project offers a comprehensive overview of sales data fr
   - Purchase Frequency: How often customers place orders, on average.
     
 - Charts’ Requirements
-  This section will support dynamic analysis using a measure selector for: Net Sales, Total Quantity, Total Customers, Repeat Customers
+This section will support dynamic analysis using a measure selector for: Net Sales, Total Quantity, Total Customers, Repeat Customers
   # 1. Regional Overview - Province and Cities
   - Filled Map (Province-Level)
-      -- Purpose: Display province-wise performance using color saturation based on the selected measure.
-      -- Interactivity: Changes dynamically with the measure selector.
+      - Purpose: Display province-wise performance using color saturation based on the selected measure.
+      - Interactivity: Changes dynamically with the measure selector.
   - Bubble Map / Density Map (City Level)
-      -- Purpose: Visually represent sales or customer density at a more granular level.
-      -- Bubble Size or Heat Intensity: Driven by the selected measure.
-      -- Tooltip: Shows all key metrics (Net Sales, Quantity, Total Customers, Repeat Customers).
+      - Purpose: Visually represent sales or customer density at a more granular level.
+      - Bubble Size or Heat Intensity: Driven by the selected measure.
+      - Tooltip: Shows all key metrics (Net Sales, Quantity, Total Customers, Repeat Customers).
     - Bar Chart (City-Level Performance)
-      -- Purpose: Compare top-performing cities based on the selected KPI.
-      -- Sorted: Descending order by selected measure.
-      -- Dynamic: Interacts with slicers/filters and responds to the KPI selector.
+      - Purpose: Compare top-performing cities based on the selected KPI.
+      - Sorted: Descending order by selected measure.
+      - Dynamic: Interacts with slicers/filters and responds to the KPI selector.
 
 
 
