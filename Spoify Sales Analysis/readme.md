@@ -78,7 +78,7 @@ Data was cleaned and modeled using Power Query Editor within Power BI.
 
 ### 🧾 Details Tab
 
-![Details Screenshot](details%20screen.PNG)
+![Details Screenshot](https://github.com/Akriti96/Power-BI/blob/main/Spoify%20Sales%20Analysis/report.png)
 
 - **Order-level breakdown**  
 - Shows:
