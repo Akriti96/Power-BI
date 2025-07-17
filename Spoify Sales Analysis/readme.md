@@ -65,7 +65,7 @@ Data was cleaned and modeled using Power Query Editor within Power BI.
 
 ### 📄 Main Report Page
 
-![Report Screenshot](Report.PNG)
+![Report Screenshot](https://github.com/Akriti96/Power-BI/blob/main/Spoify%20Sales%20Analysis/dashboard.PNG)
 
 - **Transaction Summary KPIs**
 - **Customer Funnel (First-time vs Returning)**
